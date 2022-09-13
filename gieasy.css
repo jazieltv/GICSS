@@ -1,0 +1,45 @@
+.flag {
+  width: 760px;
+  float: left;
+  padding: 0px;
+}
+
+/* 
+.stars {
+  display: flex;
+}
+
+.red {
+  display: grid;
+  grid-area: 1 4 2 14;
+}
+
+.white {
+  display: grid;
+  grid-area: 2 4 3 14;
+}
+
+.red2 {
+  display: grid;
+  grid-area: 3 4 4 14;
+}
+
+.white2 {
+  display: grid;
+  grid-area: 4 4 5 14;
+}
+
+.red3 {
+  display: grid;
+  grid-area: 5 4 6 14;
+}
+
+.white3 {
+  display: grid;
+  grid-area: 6 4 7 14;
+}
+
+.red4 {
+  display: grid;
+  grid-area: 7 4 8 14;
+} */

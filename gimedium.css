@@ -1,0 +1,35 @@
+.toppart {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  margin: 0px;
+  font-family: arial;
+}
+
+.first {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  align-self: flex-start;
+}
+
+.second {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  align-self: flex-end;
+}
+
+.third {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  align-self: flex-end;
+}
+
+.fourth {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  align-items: center;
+}
+
+.h1 {
+  align-items: center;
+}
+
+.p {
+  align-items: center;
+}
