@@ -11,9 +11,33 @@
   align-self: flex-start;
 }
 
+.first h1 {
+  align-items: center;
+}
+
+.first p {
+  text-align: center;
+}
+
+.first button {
+  align-items: center;
+}
+
 .second {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   align-self: flex-end;
+}
+
+.second h1 {
+  text-align: center;
+}
+
+.second p {
+  text-align: center;
+}
+
+.second button {
+  text-align: center;
 }
 
 .third {
@@ -21,15 +45,106 @@
   align-self: flex-end;
 }
 
+.third h1 {
+  text-align: center;
+}
+
+.third p {
+  text-align: center;
+}
+
+.third button {
+  text-align: center;
+}
+
 .fourth {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   align-items: center;
 }
 
-.h1 {
-  align-items: center;
+.fourth h1 {
+  text-align: center;
+}
+.fourth p {
+  text-align: center;
 }
 
-.p {
-  align-items: center;
+.fourth button {
+  text-align: center;
+}
+
+.bottompart {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  margin: 0px;
+  font-family: arial;
+}
+
+.fifth {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    align-self: flex-start;
+  }
+
+.fifth h1 {
+  text-align: center;
+}
+
+.fifth p {
+  text-align: center;
+}
+
+.fifth button {
+  text-align: center;
+}
+
+.sixth {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    align-self: flex-start;
+  }
+
+.sixth h1 {
+  text-align: center;
+}
+
+.sixth p {
+  text-align: center;
+}
+
+.sixth button {
+  text-align: center;
+}
+
+.seventh {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    align-self: flex-start;
+  }
+
+.seventh h1 {
+  text-align: center;
+}
+
+.seventh p {
+  text-align: center;
+}
+
+.seventh button {
+  text-align: center;
+}
+
+.eighth {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    align-self: flex-start;
+  }
+
+.eighth h1 {
+  text-align: center;
+}
+
+.eighth p {
+  text-align: center;
+}
+
+.eighth button {
+  text-align: center;
 }
